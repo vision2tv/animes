@@ -1,0 +1,1 @@
+quero todos os dados do app seja armazenados, lidos ou removidos, usando apenas o supabase, incluindo os dados do dono com a nova senha de login Jo87959583 para o email marcossv9091@gmail.com
