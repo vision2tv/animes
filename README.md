@@ -1,8 +1,15 @@
+# add
 git add .
 git commit -m "adicionando arquivo"
 git push
 
+# add 2
 
+git pull origin master --rebase
+
+Depois:
+
+git push origin master
 
 
 
